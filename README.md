@@ -18,7 +18,10 @@
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://static.cdnlogo.com/logos/c/76/c.svg" alt="C++" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="C" width="40" height="40"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> </a>
+    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="C" width="40" height="40"/> </a>
+    <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" alt="C" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
      </p>
 </p>
 
