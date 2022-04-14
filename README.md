@@ -14,3 +14,12 @@
 <a href="https://www.instagram.com/vaibhav__2902/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+     </p>
+
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=SoloWarrior2&show_icons=true alt=SoloWarrior2 /> </p>
+
