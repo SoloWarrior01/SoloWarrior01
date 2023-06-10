@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on competitive programming.
+- 🔭 I’m currently working on VLSI design, data structures and algorithms and computer architecture.
 - 🌱 I’m currently learning everything. 🤣
-- 👯 I’m looking to collaborate with other content creators.
+- 👯 I’m looking to collaborate with other designers.
 - 🤔 I’m looking for help with AWS.
 - 💬 Ask me about anything.
 - 😄 Pronouns: Your Buddy
