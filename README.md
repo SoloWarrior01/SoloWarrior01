@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on VLSI design, data structures and algorithms and computer architecture.
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other microchip designers.
-- 🤔 I’m looking for help with AWS.
+- 🤔 I’m looking for help with DSA.
 - 💬 Ask me about anything.
 - 😄 Pronouns: Your Buddy
 - ⚡ Fun fact: I love Dancing.
@@ -26,6 +26,7 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg" alt="android studio" width="40" height="40"/> </a>
+    <a href="https://www.verilog.com/" target="_blank"> <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg" alt="system verilog" width="40" height="40"/> </a>
     
 </p>
 
