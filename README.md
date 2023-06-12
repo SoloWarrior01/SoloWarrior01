@@ -20,13 +20,13 @@
 <h3 align="left">Tools and Technologies :</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.verilog.com/" target="_blank"> <img src="https://plugins.jetbrains.com/files/10695/163626/icon/pluginIcon.svg" alt="system verilog" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://static.cdnlogo.com/logos/c/76/c.svg" alt="C++" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="arduino" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg" alt="android studio" width="40" height="40"/> </a>
-    <a href="https://www.verilog.com/" target="_blank"> <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/SystemVerilog.svg" alt="system verilog" width="40" height="40"/> </a>
     
 </p>
 
