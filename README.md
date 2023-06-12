@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋</h1>
-<h2 align="center">I am Vaibhav Bansal</h1>
+<h2 align="center">I am VAIBHAV BANSAL</h2>
 
 - 🔭 I’m currently working on VLSI design, data structures and algorithms and computer architecture.
 - 🌱 I’m currently learning everything. 🤣
