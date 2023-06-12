@@ -1,9 +1,9 @@
-### Hi there 👋
-## I am Vaibhav Bansal
+<h1 align="center">Hi there👋</h1>
+<h2 align="center">I am Vaibhav Bansal</h1>
 
 - 🔭 I’m currently working on VLSI design, data structures and algorithms and computer architecture.
 - 🌱 I’m currently learning everything. 🤣
-- 👯 I’m looking to collaborate with other designers.
+- 👯 I’m looking to collaborate with other microchip designers.
 - 🤔 I’m looking for help with AWS.
 - 💬 Ask me about anything.
 - 😄 Pronouns: Your Buddy
