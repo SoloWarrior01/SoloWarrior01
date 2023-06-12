@@ -40,7 +40,7 @@
 
 <!--- [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://vaibhavbansal.github.io) 
 <a href = "mailto:vaibhavbansal.official@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=black&logo=Gmail&logoColor=FFFFFF&label=" /></a> -->
-[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=black&logo=Gmail&logoColor=FFFFFF&label=" />](mailto:vaibhavbansal.official@gmail.com/)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=black&logo=Gmail&logoColor=FFFFFF&label=" />](mailto:vaibhavbansal.official@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/vaibhav-bansal-b8a981188/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/vaibhav__2902/)
 </p>
