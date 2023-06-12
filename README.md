@@ -1,4 +1,5 @@
-### Hi there 👋 
+### Hi there 👋
+## I am Vaibhav Bansal
 
 - 🔭 I’m currently working on VLSI design, data structures and algorithms and computer architecture.
 - 🌱 I’m currently learning everything. 🤣
