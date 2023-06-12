@@ -10,15 +10,7 @@
 - ⚡ Fun fact: I love Dancing.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SoloWarrior01&label=Profile%20views&color=0e75b6&style=flat" alt="SoloWarrior01" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align = "center">
-
-<!--- [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://vaibhavbansal.github.io) -->
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/vaibhav-bansal-b8a981188/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/vaibhav__2902/)
-</p>
-
+<h2 align="left"> Skills:</h2>
 <h3 align="left">Tools and Technologies :</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -40,7 +32,16 @@
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    
+</p>
+
+<h2 align="left">Connect with me:</h2>
+<p align = "center">
+
+<!--- [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://vaibhavbansal.github.io) 
+<a href = "mailto:vaibhavbansal.official@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=black&logo=Gmail&logoColor=FFFFFF&label=" /></a> -->
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=black&logo=Gmail&logoColor=FFFFFF&label=" />](mailto:vaibhavbansal.official@gmail.com/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/vaibhav-bansal-b8a981188/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/vaibhav__2902/)
 </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=SoloWarrior01&show_icons=true alt=SoloWarrior01 /></p>
