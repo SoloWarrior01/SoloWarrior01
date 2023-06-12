@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on VLSI design, data structures and algorithms and computer architecture.
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other microchip designers.
+- 📫 How to reach me [vaibhavbansal.official@gmail.com](mailto:vaibhavbansal.official@gmail.com)
 - 🤔 I’m looking for help with DSA.
 - 💬 Ask me about anything.
 - 😄 Pronouns: Your Buddy
