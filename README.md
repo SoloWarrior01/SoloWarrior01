@@ -34,10 +34,13 @@
 
 <h3 align="left">IDEs :</h3>
 <p align = "left">
+    <img src="https://img.shields.io/badge/-Vivado-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Proteus-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-LTspice-green?style=for-the-badge" />
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Vivado-White?style=for-the-badge&logo=appveyor" />
+    
 </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=SoloWarrior01&show_icons=true alt=SoloWarrior01 /></p>
