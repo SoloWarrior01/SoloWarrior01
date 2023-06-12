@@ -30,5 +30,6 @@
 </p>
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=SoloWarrior01&show_icons=true alt=SoloWarrior01 /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=SoloWarrior01&show_icons=true alt=SoloWarrior01 /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloWarrior01&layout=compact&theme=buefy&hide_border=true" /></p>
 
