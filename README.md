@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋</h1>
 <h2 align="center">I am Vaibhav Bansal</h2>
 
-- 🔭 I’m currently working on VLSI design, data structures and algorithms and computer architecture.
+- 🔭 I’m currently working on VLSI design, Computer Architecture and Data Structures and Algorithms.
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other microchip designers.
 - 📫 How to reach me [vaibhavbansal.official@gmail.com](mailto:vaibhavbansal.official@gmail.com)
-- 🤔 I’m looking for help with DSA.
+- 🤔 I’m looking for help with ASIC.
 - 💬 Ask me about anything.
 - 😄 Pronouns: Your Buddy
 - ⚡ Fun fact: I love Dancing.
